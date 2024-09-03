@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 100
+//#define SIZE 100
 
 void insertionSort(int a[SIZE], int n)
 {
